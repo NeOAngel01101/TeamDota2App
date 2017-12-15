@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TeamsDota2</string>
+    <string name="text_view_teamdota2">Equipos Dota2</string>
+    <string name="imagen">Imagen</string>
+</resources>
