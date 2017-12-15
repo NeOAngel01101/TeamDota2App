@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        AsyncHttpClient client = new AsyncHttpClient(true, 80,443);
+        AsyncHttpClient client = new AsyncHttpClient();
         client.get("https://api.opendota.com/api/teams",
                 new TextHttpResponseHandler() {
                     @Override
