@@ -16,4 +16,5 @@ Si seleccionas un equipos se mostraran sus datos
 ### Equipo ###
 
 Una vez seleccionado un equipo se te mostrara su nombre y tag, logo del equipo, las partidas ganadas, perdidas y el radio de victorias como se muestra:
+
 ![Pantalla Equipo](https://imgur.com/Ob1pQ3G.png)
